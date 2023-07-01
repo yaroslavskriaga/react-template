@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and yarn, using Typescript and MUI Framework.
 
+- Typescript v.5
+- React v.18
+- MUI v.5
+
 Before start, please execute in your command line:
 
 ### `yarn install`
